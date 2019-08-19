@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="StudentInfo" max_length="40" name="sn_srcustomapp01_studentinfo" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="studentName" max_length="40" name="studentname" type="string"/>
+        <element label="studentMarks" max_length="40" name="studentmarks" type="integer"/>
+    </element>
+</database>
